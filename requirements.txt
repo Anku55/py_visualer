@@ -1,0 +1,12 @@
+Flask==3.0.2
+networkx==3.2.1
+astroid==3.0.3
+python-magic==0.4.27
+Werkzeug==3.0.1
+gunicorn==21.2.0
+flask-socketio==5.3.6
+radon==6.0.1
+pylint==3.0.3
+python-dotenv==1.0.1
+flask-caching==2.1.0
+flask-cors==4.0.0 
